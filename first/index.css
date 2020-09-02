@@ -6,19 +6,15 @@ body{
 }
 
 .header{
-   
     background-color: #606060;
     width 100vw; 
     height: 20vh;
-
-
 }
 .main{
     margin: 0 auto;
     background-color: #EEEEEE;
     width: 80vw;
     height: 70vh;
-    
 }
 
 .footer{
